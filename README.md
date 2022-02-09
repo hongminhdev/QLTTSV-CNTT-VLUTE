@@ -26,6 +26,9 @@
   
   b. Giao diện admin
   
+  Tài khoản: admin@ctt.vlute.edu.vn
+  Mật khẩu: admin
+  
     + Giao diện đăng nhập
     + Giao diện trang chủ
     + Giao diện quản lý thông tin lớp học
@@ -36,6 +39,9 @@
     + Giao diện tài khoản admin
   
   c. Giao diện sinh viên
+  
+  Tài khoản: 19004001@student.vlute.edu.vn
+  Mật khẩu: 123456
     
     + Giao diện đăng nhập
     + Giao diện xem bảng điểm
