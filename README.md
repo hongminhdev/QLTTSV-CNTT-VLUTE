@@ -1,4 +1,5 @@
 # QLTTSV-CNTT-VLUTE
+Quản lý thông tin sinh viên khoa Công nghệ thông tin - VLUTE
 1. Phân tích và thiết kế hệ thống
 + Biếu đồ BFD 
 
